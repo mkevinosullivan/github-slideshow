@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Kevin O'Sullivan's updated text line :-)
 Use the left arrow to go back!
